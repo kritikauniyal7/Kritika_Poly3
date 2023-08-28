@@ -45,4 +45,5 @@ To use this circuit for other inputs or different logical operations, the `Happy
 ## Authors
 
 Kritika Uniyal
+
 Student-Chandigarh University
